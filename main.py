@@ -1,5 +1,5 @@
-from GUI import ScoreCalculatorApp
+from GUI import GradeCalculatorApp
 
 if __name__ == "__main__":
-    app = ScoreCalculatorApp()
+    app = GradeCalculatorApp()
     app.mainloop()
